@@ -45,8 +45,8 @@ My name is Davy Ribeiro and I'm a Web Development from Brazil
 
 <div align="center">
 
-![devDavyRibeiro's Stats](https://github-readme-stats.vercel.app/api?username=devDavyRibeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![devDavyRibeiro's Stats](https://github-readme-stats-fast.vercel.app/api?username=devDavyRibeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![devDavyRibeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devDavyRibeiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![devDavyRibeiro's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devDavyRibeiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <div>
